@@ -13,6 +13,7 @@
 
 ### GitHub Stats:
 <div align="center" margin-top="50px">
+<a href="https://github.com/gustavomelofr">  
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavomelofr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomelofr&layout=compact&langs_count=8&theme=dark&hide_progress=true"/>
 </div>
