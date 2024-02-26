@@ -1,16 +1,22 @@
-### Hi there 👋
+### I am Gustavo de Melo 👋  ![image](https://github.com/gustavomelofr/gustavomelofr/assets/157622711/b9c98a58-725e-4a10-9f6b-f6cd71df39c0)
 
-<!--
-**gustavomelofr/gustavomelofr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am currently studying Computer Science at Universidade de Brasília (UnB);
+- Currently studying css and Python;
 
-Here are some ideas to get you started:
+### **Languages and tools:**
+<div align = "Center">
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats:
+<div align="center" margin-top="50px">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavomelofr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomelofr&layout=compact&langs_count=8&theme=dark&hide_progress=true"/>
+</div>
+
+
+
+
